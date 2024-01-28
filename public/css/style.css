@@ -1,0 +1,408 @@
+@import url('fuentes/fuentes.css');
+*{
+  box-sizing: border-box;
+}
+body{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e8e8e8+0,f9f9f9+10,f9f9f9+90,e8e8e8+100 */
+background: #ffffff; /* Old browsers */
+margin:0;
+padding:0;
+font-family:Raleway-Regular;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: none;
+}
+.bg-login{
+  background: url(../images/fondomultiple.jpg) repeat center center;
+  background-size: 200px 200px;
+
+}
+a{
+text-decoration: none;
+}
+.cont_menu, .nav2{
+ display:none;
+}
+.cont-img{
+  width: 100%;
+}
+.cont-img img{
+  width: 100%;
+}
+.pad0{
+	padding:5px;
+	box-sizing:border-box;
+}
+.pad1{
+	padding:10px;
+	box-sizing:border-box;
+}
+.pad2{
+	padding:20px;
+	box-sizing:border-box;
+}
+.pad3{
+	padding:30px;
+	box-sizing:border-box;
+}
+.clear {
+	clear: both;
+	display: block;
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+}
+
+header{
+display:block;
+background:rgb(243 243 243 / 40%);
+width:100%;
+height:auto;
+position:relative;
+padding: 10px;
+border-bottom: 1px solid #e7e7e7;;
+}
+#site-navigation.fixed {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background:rgba(255, 255, 255, 0.8);
+  z-index: 999999;
+}
+
+#logo2{display:none;}
+
+.logo2{
+width:100%;
+background:#fff;
+padding:0px;
+box-sizing:border-box;
+}
+.logo2 img{
+	width:100%;
+}
+.logo img{
+	width:100%;
+}
+.logo{
+	width:100%;
+background:#fff;
+padding:5px;
+box-sizing:border-box;
+border-radius:0px 0px 10px 10px;
+}
+.nav{
+padding:10px;
+box-sizing:border-box;
+width:100%;
+display: block;
+position:relative;
+
+}
+
+.nav ul {
+list-style: none;
+margin:0px !important;
+padding:0px !important;
+}
+.nav li {
+display: inline-block;
+position: relative;
+float: right;
+}
+.nav a {
+ -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+display: inline-block;
+margin-left:10px;
+text-decoration: none;
+
+}
+.nav a p{
+  margin: 0px;
+  color: #236B98;
+  text-align: right;
+  padding: 13px 19px;
+/*line-height:47px;*/
+font-size: 18px;
+    font-weight: 400;
+}
+.nav a span{
+  margin: 0px;
+  color: #236B98;
+  text-align: right;
+  margin-top: 13px;
+  padding:10px;
+line-height:47px;
+font-size: 28px;
+    font-weight: 400;
+}
+.nav a span:hover {
+text-decoration: none;
+-webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+  color:#236B98;
+border-radius:4px;
+}
+
+.nav .active a p{
+background:#236B98;
+color:#fff;
+border-radius:4px;
+}
+
+
+.nav li ul{
+display:none;
+position:absolute;
+min-width:80px;
+background:gray;
+
+}
+.nav li:hover > ul{
+display:block;
+z-index:1000;
+}
+
+/*----------------------------cotizar-------------------------------*/
+.main{
+  padding:50px 0px;
+}
+.cont-main{
+  border: 1px solid #f0f0f0;
+  border-radius: 3px;
+}
+.cont-main h3{
+  font-size: 30px;
+  font-family:Raleway-Bold;
+}
+.con-cot{
+  padding: 30px;
+  border-radius: 10px;
+  background: #e8e8e8;
+}
+.con-cot:hover{
+  background: #d1d1d1;
+}
+.con-cot p{
+text-align: center;
+font-size: 18px;
+font-family:Raleway-Regular;
+text-decoration: none;
+color:#1a1a1a;
+}
+.con-cot img{
+  width: 100%;
+text-align: center;
+}
+/*-----------------------------login--------------------------------------*/
+.cont-f{
+  background: rgb(232 232 232 / 40%);
+  border-radius: 10px;
+  border: 1px solid #d1d1d1;
+  padding: 30px;
+}
+.title2{
+  font-size: 20px;
+  font-weight: bold;
+}
+.cont-form label{
+width: 100%;
+font-size: 20px;
+margin-top: 10px;
+}
+.cont-form input[type=text], .cont-form input[type=password]{
+  color:#696969;
+  width: 100%;
+  border-radius:5px;
+  border: 1px solid #cecece;
+  font-size: 20px;
+  padding: 10px;
+  }
+  .cont-form select{
+    color:#696969;
+  width: 100%;
+  border-radius:5px;
+  border: 1px solid #cecece;
+  font-size: 20px;
+  padding: 10px;
+  }
+  .cont-form input[type=submit]{
+    font-size: 20px;
+    display: inline-block;
+    background: #236b98;
+    border:none;
+    border-radius: 50px;
+    padding: 12px 60px; 
+    color: #ffff;
+    font-weight: bold;
+    margin: 20px 0px;
+  }
+  .cont-form input[type=submit]:hover{
+  background: #104668;
+  }
+/*-----------------------------Residencial--------------------------------------*/
+.title-lbl{
+  padding: 10px;
+  border-bottom: 1px solid #696969;
+  margin-bottom: 10px;
+}
+.title-lbl p{
+  margin: 0px;
+  font-size: 15px;
+}
+.cont-row{
+  padding: 5px;
+}
+.cont-row input[type=text]{
+width: 100%;
+border: 1px solid #696969;
+padding: 10px;
+font-size: 15px;
+border-radius: 4px;
+}
+.cont-row select{
+  width: 100%;
+  border: 1px solid #696969;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 4px;
+  }
+.medidas{
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  border: 1px solid #cecece;
+  margin-bottom: 20px;
+}
+/*-----------------------------panel de control--------------------------------------*/
+.titpanel{
+background:white;
+width:100px;
+height:25px;
+position:absolute;
+top:-25px;
+left:0px;
+}
+
+.panel{
+background:#5abbdd;
+width:940px;
+height:auto;
+margin:auto;
+position:relative;
+margin-top:65px;
+padding:10px;
+}
+
+.panel .boton{
+background:#00869f;
+color:white;
+width:150px;
+height:35px;
+position:absolute;
+right:0px;
+bottom:0px;
+cursor:pointer;
+font-weight:bold;
+font-size:18px;
+}
+
+.patie{
+background:white;
+width:100%;
+height:165px;
+position:relative;
+margin-top:30px;
+margin-bottom:20px;
+}
+
+.patie1{
+width:900px;
+height:24px;
+position:relative;
+padding:10px;
+}
+.patie1 .marca{
+width: 170px;
+}
+.patie1 .local{
+width: 50px;
+}
+.patie1 .desc{
+width:400px;
+}
+
+.pagal{
+background:white;
+width:100%;
+height:100px;
+position:relative;
+margin-top:40px;
+padding-top:20px;
+margin-bottom:20px;
+}
+
+.panel input{
+float:left;
+border:1px solid #5abbdd;
+height:22px;
+padding: 0px 5px;
+margin-left:20px;
+}
+
+.panel p{
+float:left;
+margin:0px 10px 0px 20px;
+font-weight:bold;
+}
+
+.paeve{
+background:white;
+width:100%;
+height:165px;
+position:relative;
+margin-top:40px;
+margin-bottom:20px;
+}
+
+.fotos{
+width:380px;
+height:145px;
+position:absolute;
+top:10px;
+left:10px;
+}
+
+.datos{
+width:550px;
+height:135px;
+position:absolute;
+top:20px;
+right:10px;
+}
+
+.datos .titulo{
+width:400px;
+margin-bottom:10px;
+}
+.datos .tex{
+width:405px;
+height:60px;
+border: 1px solid #5abbdd;
+margin-bottom:7px;
+margin-left: 20px;
+}
+
+
+@media only screen and (max-width:768px){
+
+ }

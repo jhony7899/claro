@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* ---------------------------------------------------------------------- */
+/* Theme Information
+/* ----------------------------------------------------------------------
+Name: Exquiso
+Description: Responsive Multi-Purpose Theme
+Version: 1.0
+Author: Ixtendo
+Author URI: http://www.ixtendo.com
+------------------------------------------------------------------------- */
+
+
+/* ---------------------------------------------------------------------- */
+/* Exquiso Blue Styles
+/* ----------------------------------------------------------------------
+TABLE OF CONTENTS
+
+-Text
+-Background Colors
+-Borders
+-Media Player
+------------------------------------------------------------------------- */
+
+
+/* ---------------------------------------------------------------------- */
+/* Text
+/* ---------------------------------------------------------------------- */
+
+/* ---------------------------------------------------------------------- */
+/* Background Colors
+/* ---------------------------------------------------------------------- */
+.flex-direction-nav a:link, .flex-direction-nav a:visited,
+.tp-leftarrow, .tp-rightarrow {
+	background-color: rgba(77,112,177,0.8);	
+}
+
+.ddsubmenustyle li a:hover,
+#search-submit,
+.flex-direction-nav a:hover, .flex-direction-nav a:active,
+.tp-leftarrow:hover, .tp-rightarrow:hover,
+.ie8 .flex-direction-nav a:link, .ie8 .flex-direction-nav a:visited,
+.ie8 .tp-leftarrow, .ie8 .tp-rightarrow,
+.iconbox a:hover .iconbox-icon,
+.entry-month,
+.jcarousel-prev:hover, .jcarousel-prev:focus,
+.jcarousel-next:hover, .jcarousel-next:focus,
+#toTop:hover,
+.page-nav li.current,
+.page-nav a:hover,
+.pricing-box.featured .price,
+.pricing-box.featured .title,
+#filter a:hover, #filter a.selected,
+.tags a:hover {
+	background-color: #4d70b1;	
+}
+
+/* HTML5 Reset CSS Rewriting */
+
+/* Custom text-selection colors (remove any text shadows: twitter.com/miketaylr/status/12228805301) */
+
+
+
+ins, mark {background-color: #4d70b1;}
+
+/* ---------------------------------------------------------------------- */
+/* Borders
+/* ---------------------------------------------------------------------- */
+ul#navlist li.current a, 
+.ddsubmenustyle > ul, .ddsubmenustyle li a:hover,
+.iconbox a:hover,
+.project-list li:hover .entry-meta,
+.infobox,
+.tabs ul.nav li.ui-state-active a,
+.pricing-box.featured .price,
+.pricing-box.featured .title {
+	border-color: #4d70b1;	
+}
+
+
+/* ---------------------------------------------------------------------- */
+/* Buttons (site color or a different color)
+/* ---------------------------------------------------------------------- */
+.button, .content-form input.button, #comment-form #submit,
+.button.black:hover { 
+	background-color: #f78e0c; 
+}

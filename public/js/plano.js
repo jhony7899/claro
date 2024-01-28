@@ -1,0 +1,779 @@
+$(document).ready(function(){
+  $("#derp11").click(function(){
+    $("#izp11").fadeToggle("slow");
+
+	$("#izp12").fadeOut("slow");
+	$("#izp13").fadeOut("slow");
+	$("#izp14").fadeOut("slow");
+	$("#izp15").fadeOut("slow");
+	$("#izp16").fadeOut("slow");
+	$("#izp17").fadeOut("slow");
+	$("#izp18").fadeOut("slow");
+	$("#izp19").fadeOut("slow");
+	$("#izp110").fadeOut("slow");
+	$("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+	$("#izp113").fadeOut("slow");
+	$("#izp114").fadeOut("slow");
+	$("#izp115").fadeOut("slow");
+	$("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+	$("#izp118").fadeOut("slow");
+	$("#izp119").fadeOut("slow");
+	$("#izp120").fadeOut("slow");
+	$("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+  });
+});
+
+$(document).ready(function(){
+  $("#derp12").click(function(){
+    $("#izp12").fadeToggle("slow");
+
+	$("#izp11").fadeOut("slow");
+	$("#izp13").fadeOut("slow");
+	$("#izp14").fadeOut("slow");
+	$("#izp15").fadeOut("slow");
+	$("#izp16").fadeOut("slow");
+	$("#izp17").fadeOut("slow");
+	$("#izp18").fadeOut("slow");
+	$("#izp19").fadeOut("slow");
+	$("#izp110").fadeOut("slow");
+	$("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+	$("#izp113").fadeOut("slow");
+	$("#izp114").fadeOut("slow");
+	$("#izp115").fadeOut("slow");
+	$("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+	$("#izp118").fadeOut("slow");
+	$("#izp119").fadeOut("slow");
+	$("#izp120").fadeOut("slow");
+	$("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+});
+});
+
+$(document).ready(function(){
+  $("#derp13").click(function(){
+    $("#izp13").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+
+$(document).ready(function(){
+  $("#derp14").click(function(){
+    $("#izp14").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+
+$(document).ready(function(){
+  $("#derp15").click(function(){
+    $("#izp15").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp16").click(function(){
+    $("#izp16").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+
+$(document).ready(function(){
+  $("#derp17").click(function(){
+    $("#izp17").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+
+$(document).ready(function(){
+  $("#derp18").click(function(){
+    $("#izp18").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp19").click(function(){
+    $("#izp19").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp110").click(function(){
+    $("#izp110").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp111").click(function(){
+    $("#izp111").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp112").click(function(){
+    $("#izp112").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp113").click(function(){
+    $("#izp113").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp114").click(function(){
+    $("#izp114").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp115").click(function(){
+    $("#izp115").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp116").click(function(){
+    $("#izp116").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp117").click(function(){
+    $("#izp117").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp118").click(function(){
+    $("#izp118").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp119").click(function(){
+    $("#izp119").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp120").click(function(){
+    $("#izp120").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp121").click(function(){
+    $("#izp121").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp122").click(function(){
+    $("#izp122").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp175").click(function(){
+    $("#izp175").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp176").click(function(){
+    $("#izp176").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+  $("#izp177").fadeOut("slow");
+
+  });
+});
+$(document).ready(function(){
+  $("#derp177").click(function(){
+    $("#izp177").fadeToggle("slow");
+
+  $("#izp12").fadeOut("slow");
+  $("#izp13").fadeOut("slow");
+  $("#izp14").fadeOut("slow");
+  $("#izp15").fadeOut("slow");
+  $("#izp16").fadeOut("slow");
+  $("#izp17").fadeOut("slow");
+  $("#izp18").fadeOut("slow");
+  $("#izp19").fadeOut("slow");
+  $("#izp110").fadeOut("slow");
+  $("#izp111").fadeOut("slow");
+  $("#izp112").fadeOut("slow");
+  $("#izp113").fadeOut("slow");
+  $("#izp114").fadeOut("slow");
+  $("#izp115").fadeOut("slow");
+  $("#izp116").fadeOut("slow");
+  $("#izp117").fadeOut("slow");
+  $("#izp118").fadeOut("slow");
+  $("#izp119").fadeOut("slow");
+  $("#izp11").fadeOut("slow");
+  $("#izp121").fadeOut("slow");
+  $("#izp122").fadeOut("slow");
+  $("#izp120").fadeOut("slow");
+  $("#izp176").fadeOut("slow");
+  $("#izp175").fadeOut("slow");
+
+  });
+});

@@ -1,0 +1,188 @@
+$(document).ready(function(){
+  $("#clp337").click(function(){
+    $("#izp337").fadeToggle("slow");
+  });
+});
+
+$(document).ready(function(){
+  $("#clp338").click(function(){
+    $("#izp338").fadeToggle("slow");
+  });
+});
+
+$(document).ready(function(){
+  $("#clp339").click(function(){
+    $("#izp339").fadeToggle("slow");
+  });
+});
+
+$(document).ready(function(){
+  $("#clp340").click(function(){
+    $("#izp340").fadeToggle("slow");
+  });
+});
+
+$(document).ready(function(){
+  $("#clp341").click(function(){
+    $("#izp341").fadeToggle("slow");
+  });
+});
+
+$(document).ready(function(){
+  $("#clp342").click(function(){
+    $("#izp342").fadeToggle("slow");
+  });
+});
+
+$(document).ready(function(){
+  $("#clp344").click(function(){
+    $("#izp344").fadeToggle("slow");
+  });
+});
+
+$(document).ready(function(){
+  $("#clp345").click(function(){
+    $("#izp345").fadeToggle("slow");
+  });
+});
+
+$(document).ready(function(){
+  $("#clp346").click(function(){
+    $("#izp346").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp347").click(function(){
+    $("#izp347").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp348").click(function(){
+    $("#izp348").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp349").click(function(){
+    $("#izp349").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp350").click(function(){
+    $("#izp350").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp351").click(function(){
+    $("#izp351").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp352").click(function(){
+    $("#izp352").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp353").click(function(){
+    $("#izp353").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp354").click(function(){
+    $("#izp354").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp356").click(function(){
+    $("#izp356").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp356a").click(function(){
+    $("#izp356a").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp357").click(function(){
+    $("#izp357").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp358").click(function(){
+    $("#izp358").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp360").click(function(){
+    $("#izp360").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp361").click(function(){
+    $("#izp361").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp362").click(function(){
+    $("#izp362").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp363").click(function(){
+    $("#izp363").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp364").click(function(){
+    $("#izp364").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp365").click(function(){
+    $("#izp365").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp366").click(function(){
+    $("#izp366").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp367").click(function(){
+    $("#izp367").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp368").click(function(){
+    $("#izp368").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp369").click(function(){
+    $("#izp369").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp370").click(function(){
+    $("#izp370").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp371").click(function(){
+    $("#izp371").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp372").click(function(){
+    $("#izp372").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp373").click(function(){
+    $("#izp373").fadeToggle("slow");
+  });
+});
+$(document).ready(function(){
+  $("#clp374").click(function(){
+    $("#izp374").fadeToggle("slow");
+  });
+});

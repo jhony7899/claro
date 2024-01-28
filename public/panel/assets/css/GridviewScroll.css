@@ -1,0 +1,112 @@
+﻿.GridviewScrollHeader TH, .GridviewScrollHeader TD
+{
+    padding: 8px;
+    font-weight: bold;
+    white-space: nowrap;
+	font-size:12px;
+    border-right: 1px solid #AAAAAA;
+    border-bottom: 1px solid #AAAAAA;
+    background-color: #EFEFEF;
+    vertical-align: middle;
+    text-align: center;
+    height: auto;
+	}
+.tabla .GridviewScrollHeader TH,.tabla .GridviewScrollHeader TD
+  {
+      white-space: normal;
+  }
+  .celda{
+  width: 300px;
+    white-space: normal;
+    cursor: pointer;
+  }
+.celda:hover{
+  background: #d4d2d2;
+}
+.celda:hover>a{
+  color:#000;
+}
+  .tabla th{
+    background: #161678;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+  }
+.GridviewScrollItem TD
+{
+    padding:2px 5px;
+	font-size:12px;
+	line-height:10px;
+    white-space: nowrap;
+    border-right: 1px solid #AAAAAA;
+    border-bottom: 1px solid #AAAAAA;
+    background-color: #FFFFFF;
+}
+.GridviewScrollItem .Freeze
+{
+color:#6e6e6e;
+    background-color: #EFEFEF;
+}
+.GridviewScrollItemHover TD
+{
+    padding: 5px;
+    white-space: nowrap;
+    border-right: 1px solid #AAAAAA;
+    border-bottom: 1px solid #AAAAAA;
+    background-color: #CCCCCC;
+    cursor: pointer;
+}
+.GridviewScrollItemHover .Freeze
+{
+    background-color: #CCCCCC;
+}
+.GridviewScrollItemSelected TD
+{
+    padding: 5px;
+    white-space: nowrap;
+    border-right: 1px solid #AAAAAA;
+    border-bottom: 1px solid #AAAAAA;
+    background-color: #999999;
+    color: #FFFFFF;
+}
+.GridviewScrollItemSelected .Freeze
+{
+    background-color: #999999;
+}
+.GridviewScrollPager
+{
+    border-top: 1px solid #AAAAAA;
+    background-color: #FFFFFF;
+}
+.GridviewScrollPager TD
+{
+    padding-top: 3px;
+    font-size: 14px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.GridviewScrollPager A
+{
+    color: #666666;
+}
+
+.GridviewScrollPager SPAN
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.no TD{
+color:white;
+    padding: 5px;
+    white-space: nowrap;
+    border-right: 1px solid #AAAAAA;
+    border-bottom: 1px solid #AAAAAA;
+background-color: #54cff8;
+}
+.arrendatario td{
+background-color: #DBF0F7;
+}
+.cont-list .arrendatario td a{
+background-color: #FDFDFD;
+}

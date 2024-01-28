@@ -1,0 +1,17 @@
+﻿/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+@font-face{
+font-family:Raleway-Black;
+src:url("Raleway-Black.ttf")
+}
+@font-face{
+font-family:Raleway-Bold;
+src:url("Raleway-Bold.ttf")
+}
+@font-face{
+font-family:Raleway-Light;
+src:url("Raleway-Light.ttf")
+}
+@font-face{
+font-family:Raleway-Regular;
+src:url("Raleway-Regular.ttf")
+}
